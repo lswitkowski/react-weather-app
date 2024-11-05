@@ -11,7 +11,9 @@ function App() {
         This website was coded by
         <a
           href="https://github.com/lswitkowski/"
-          target="_blank">
+          target="_blank"
+          rel="noreferrer"
+        >
           {" "}
           Lisa W
         </a>
@@ -19,11 +21,17 @@ function App() {
         <a
           href="https://github.com/lswitkowski?tab=repositories"
           target="_blank"
+          rel="noreferrer"
         >
           GitHub
         </a>
         , and hosted on
-        <a href="https://www.netlify.com/" target="_blank" title="netlify">
+        <a
+          href="https://www.netlify.com/"
+          target="_blank"
+          rel="noreferrer"
+          title="netlify"
+        >
           Netlify
         </a>
       </p>
